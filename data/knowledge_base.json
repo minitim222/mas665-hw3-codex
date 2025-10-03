@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "What is MAS.665?",
+      "answer": "MAS.665 is a course on Generative AI at MIT that focuses on building multimodal systems and deeply understanding large language model capabilities through hands-on projects."
+    },
+    {
+      "question": "How does the homework agent work?",
+      "answer": "The homework agent combines a retrieval-augmented knowledge base with lightweight reasoning templates to help students debug code and explore design decisions."
+    },
+    {
+      "question": "What tools does the agent support?",
+      "answer": "The agent supports browsing internal documentation, running structured reasoning chains, and now includes speech input and output for hands-free experimentation."
+    }
+  ],
+  "tips": [
+    "Ask one question at a time and the agent will keep track of context.",
+    "If you are in a loud environment consider uploading a recorded audio file instead of live capture."
+  ]
+}
